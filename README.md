@@ -32,6 +32,39 @@ operation of windmills and solar panels having an aggregated installed capacity 
 Medi, Beraja, Matalpar, Laiyari, Kurchan, Kosa & Kurchan villages in the state of Gujarat, India. The project has
 been promoted by M/s Colourtex Industries Pvt. Ltd., with Dakshin Gujarat Vij Company Limited (DGVCL) being
 the associated DISCOM for the project activity.
+
+Village : Rabarika, Medi, Beraja, Matalpar, Laiyari, Kurchan & Kosa
+
+Taluka : Jesar, Beraja, Jamnagar, Jamjodhpur, Bharuch
+
+District : Bharuch, Jamnagar, Bhavnagar & Kutch
+
+State : Gujarat
+
+Country : India
+_____________
+Coordinates of the project are given in the following table.
+
+Sr. No. WTG ID Latitude Longitude District
+____________
+1 JJPGJ177 22.0057770 69.9633410 Jamnagar
+_______
+2 NMT240 22.349139 70.308083 Jamnagar
+_______
+3 NMT-307 22.281275 70.17618 Jamnagar
+_______
+4 NMT-414 22.262957 70.170712 Jamnagar
+_______
+5 PALMTP25 21.315829 71.751688 Bhavnagar
+_______
+6 JMD284 23.327667 68.714750 Kutch
+_______
+7 JMA 189 23.387778 68.776667 Kutch
+_______
+Sr. No. Solar ID Latitude Longitude District
+1
+GMSPVINDGEDA2
+422021-237 21.909489 72.957203 Bharuch
 _________
 Commissioning dates of the Wind Turbine Generators installed are shown in the below table:
 
